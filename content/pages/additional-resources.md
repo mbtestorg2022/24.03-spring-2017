@@ -89,7 +89,7 @@ Vegetarianism and Animal Welfare
 
  "Animal Liberation and Environmental Ethics: Bad Marriage, Quick Divorce." chapter in Sagoff, Michael. _Environmental Ethics_. Edited by David Schmidtz and Elizabeth Willott. Oxford University Press, 2002. ISBN: 978-0199793518.
 
-Wenz, Peter S. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[An Ecological Argument for Vegetarianism (PDF - 1.8MB)](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1207&context=ethicsandanimals)." _Ethics and Animals_ 5, no. 1 (2011): 4.
+Wenz, Peter S. "[An Ecological Argument for Vegetarianism (PDF - 1.8MB)](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1207&context=ethicsandanimals)." _Ethics and Animals_ 5, no. 1 (2011): 4.
 
 Waste
 -----
@@ -129,7 +129,7 @@ Philosophy
 
 Sayre-McCord, Geoffrey. "[Kant's Grounding for the Metaphysics of Morals A Very brief selective summary of sections I and II (PDF)](http://www.unc.edu/~gsmunc/phil22/Kantsum.pdf)." Chapel Hill: UNC (2000).
 
-Kant, Immanuel. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Groundwork for the Metaphysics of Morals (PDF)](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)." (1785).
+Kant, Immanuel. "[Groundwork for the Metaphysics of Morals (PDF)](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)." (1785).
 
 Films
 -----

@@ -440,7 +440,7 @@ Required:
 
  "People or penguins: The case for optimal pollution." in Pojman, Louis, Paul Pojman, Katie McShane. _Food Ethics_. Cengage Learning, 2016. ISBN: 978-1285197319
 
-Wenz, Peter S. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ecology and Morality (PDF - 2.5MB)](http://public.callutheran.edu/~chenxi/Phil350_092_01.PDF)." _Ethics and Animals_ (1983).
+Wenz, Peter S. "[Ecology and Morality (PDF - 2.5MB)](http://public.callutheran.edu/~chenxi/Phil350_092_01.PDF)." _Ethics and Animals_ (1983).
 
 Recommended:
 
